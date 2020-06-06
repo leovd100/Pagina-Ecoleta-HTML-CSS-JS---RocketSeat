@@ -6,13 +6,13 @@ Tecnologias utilizadas nessa fase:
 
 	HTML. 
 	CSS.
-&nbsp;&nbsp; - Criação e explicação de Blocos em HTML,
-&nbsp;&nbsp; - Explicação da semântica HTML.
-&nbsp;&nbsp; - Criação de variáveis em CSS.
-&nbsp;&nbsp; - Criação de página responsiva.
-&nbsp;&nbsp; - Acessar arquivos e pastas através do CSS, arquivos .svg.
+- Criação e explicação de Blocos em HTML,
+- Explicação da semântica HTML.
+- Criação de variáveis em CSS.
+- Criação de página responsiva.
+- Acessar arquivos e pastas através do CSS, arquivos .svg.
 
-####PAGINA - 1 
+<h3>PAGINA - 1</h3> 
 
 ![pagina1](https://i.imgur.com/WE9Iyjq.png "pagina1")
 
